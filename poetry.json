@@ -1,0 +1,22 @@
+[
+    {
+        "prompt": "Write a poem about the night sky.",
+        "completion": "The night sky whispers soft and deep,\nStars awake while the world sleeps.\nMoonlight dances on the silent sea,\nA world of wonder, calm, and free."
+    },
+    {
+        "prompt": "Write a poem about the ocean.",
+        "completion": "Waves crash softly on the shore,\nEchoes of tales from ages before.\nThe ocean hums a timeless song,\nInviting all to listen along."
+    },
+    {
+        "prompt": "Write a poem about autumn.",
+        "completion": "Leaves fall gently, red and gold,\nStories of summer quietly told.\nCool winds blow through fields of rye,\nAutumn whispers, and time drifts by."
+    },
+    {
+        "prompt": "Write a poem about a lonely tree.",
+        "completion": "Alone it stands upon the hill,\nSilent, strong, and never still.\nBranches reach to skies above,\nA testament to quiet love."
+    },
+    {
+        "prompt": "Write a poem about friendship.",
+        "completion": "Through sunny days and stormy weather,\nFriends stay close and hearts together.\nLaughter, tears, and secrets shared,\nA bond unbroken, a love declared."
+    }
+]
